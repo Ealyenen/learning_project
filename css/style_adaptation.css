@@ -216,6 +216,7 @@
         display: block;
         margin: 0 auto;
         margin-top: 24px;
+        width: 100%;
     }
     .mobile_app .mobile_app_btn{
         width: 115px;
